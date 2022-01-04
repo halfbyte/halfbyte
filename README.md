@@ -10,7 +10,7 @@
 
 Almost grey beard software developer with a background in environmental engineering.
 
-Cofounder and Chief Pizza Officer of Depfu, your friendly dependency update robot factory.
+Cofounder and Chief Pizza Officer of [Depfu](https://depfu.com), your friendly dependency update robot factory.
 
 Computer musician and MIDI afficionado.
 
