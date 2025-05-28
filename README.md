@@ -14,7 +14,7 @@ Cofounder of [Depfu](https://depfu.com), your friendly dependency update robot f
 
 Computer musician and MIDI afficionado.
 
-In the process of moving all my open source stuff to [Codeberg](https://codeberg.org/halfbyte)
+In the process of moving all my open source stuff to [Codeberg](https://codeberg.org/halfbyte).
 
 ## Links
 
@@ -24,4 +24,3 @@ In the process of moving all my open source stuff to [Codeberg](https://codeberg
 - [Music](https://soundcloud.com/halfbyte)
 - [Federated small rants](https://ruby.social/@halfbyte)
 - [Slightly bigger federated rants](https://write.halfbyte.org)
-
