@@ -8,18 +8,20 @@
                                   |_____|
 ```
 
-Almost grey beard software developer with a background in environmental engineering.
+Grey beard software developer with a background in environmental engineering.
 
-Cofounder and Chief Pizza Officer of [Depfu](https://depfu.com), your friendly dependency update robot factory.
+Cofounder of [Depfu](https://depfu.com), your friendly dependency update robot factory.
 
 Computer musician and MIDI afficionado.
 
+In the process of moving all my open source stuff to [Codeberg](https://codeberg.org/halfbyte)
+
 ## Links
 
+- [ALL THE THINGS](https://halfbyte.me)
 - [Main website and large rants](https://jan.krutisch.de/)
 - [All things art and making](https://halfbyte.org)
 - [Music](https://soundcloud.com/halfbyte)
-- [Small Rants](https://twitter.com/halfbyte)
 - [Federated small rants](https://ruby.social/@halfbyte)
 - [Slightly bigger federated rants](https://write.halfbyte.org)
 
